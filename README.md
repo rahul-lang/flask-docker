@@ -15,6 +15,6 @@ For this we have to
 
 ```docker-compose up``` or ```docker-compose up -d``` (runs your docker-compose.yml file)
 
-5.Open web browser of our vm machine and type ```0.0.0.0:5000```(pulls up web app first page)
+Open web browser of our vm machine and type ```0.0.0.0:5000```(pulls up web app first page)
 
-6.```docker-compose down```(stops the running app)
+```docker-compose down```(stops the running app)
